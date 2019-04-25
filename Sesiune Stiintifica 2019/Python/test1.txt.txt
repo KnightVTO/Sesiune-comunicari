@@ -1,0 +1,13 @@
+//Cum se realizeaza(powershell):
+1.se ajunge in folderul de unde se ia imaginea pentru a-i extrage textul
+2.se pot folosi comenzile "dir" pentru a vedea ce se afla in folder si "tesseract --list-langs"
+pentru a vedea limbile disponibile
+3.se executa comanda de extragere text prin "tesseract.exe 'numeleFisierului.jpg/png' 'nume
+output.txt' -l 'limba dorita'"
+
+It was the best of
+times, it was the worst
+of times, it was the age
+of wisdom, it was the
+age of foolishness...
+
